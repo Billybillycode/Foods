@@ -487,7 +487,6 @@ html {
   .section-heading {
     font-size: 7rem;
     margin: 0 10rem;
-
   }
   .section-1-icons {
     font-size: 20rem;
@@ -507,18 +506,15 @@ html {
   .section-4-text {
     margin-bottom: 8rem;
   }
-
 }
 
-@media(max-width: 550px) {
+@media (max-width: 550px) {
   html {
     font-size: 40%;
   }
-  .navbar-link{
-    margin: 0 .7rem;
+  .navbar-link {
+    margin: 0 0.7rem;
   }
 }
-
-
 
 /* End of Responsive */
